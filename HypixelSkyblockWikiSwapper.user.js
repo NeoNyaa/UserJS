@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name            Hypixel Skyblock Wiki Swapper
-// @namespace       Violentmonkey Scripts
+// @namespace       NeoNyaa UserScripts
 // @match           *://wiki.hypixel.net/*
 // @exclude-match   *://wiki.hypixel.net/index.php*
 // @match           *://hypixel-skyblock.fandom.com/*
 // @exclude-match   *://hypixel-skyblock.fandom.com/wiki/Special:Search*
 // @grant           none
-// @version         1.0
+// @version         1.0.0
 // @author          NeoNyaa
 // @description     Adds two buttons to both the Fandom and Hypixel wiki allowing you to switch between the two with the currently viewed page as a search query and to scroll back to the top of the page.
 // ==/UserScript==
